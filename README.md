@@ -1,3 +1,5 @@
 # VR_Cardiac-Stent-Prototype
 VR_Cardiac-Stent-Prototype
-This is a Unity demo of a virtual reality cardiac stent prototype 
+
+
+This is an early version of a virtual reality cardiac stent prototype developed in Unity 
