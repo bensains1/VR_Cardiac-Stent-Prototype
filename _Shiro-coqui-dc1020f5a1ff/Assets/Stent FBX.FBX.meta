@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: e696f84c72c41e6439f8c072513b0752
+timeCreated: 1435110199
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BakedParticleMesh_007
+    100002: BakedParticleMesh_009
+    100004: BakedParticleMesh_010
+    100006: BakedParticleMesh_011
+    100008: BakedParticleMesh_012
+    100010: BakedParticleMesh_013
+    100012: BakedParticleMesh_014
+    100014: BakedParticleMesh_015
+    100016: BakedParticleMesh_016
+    100018: BakedParticleMesh_017
+    100020: BakedParticleMesh_018
+    100022: BakedParticleMesh_019
+    100024: BakedParticleMesh_020
+    100026: BakedParticleMesh_021
+    100028: BakedParticleMesh_022
+    100030: BakedParticleMesh_023
+    100032: BakedParticleMesh_024
+    100034: BakedParticleMesh_025
+    100036: BakedParticleMesh_026
+    100038: BakedParticleMesh_027
+    100040: BakedParticleMesh_028
+    100042: BakedParticleMesh_029
+    100044: BakedParticleMesh_030
+    100046: BakedParticleMesh_031
+    100048: BakedParticleMesh_032
+    100050: BakedParticleMesh_033
+    100052: BakedParticleMesh_034
+    100054: BakedParticleMesh_035
+    100056: BakedParticleMesh_036
+    100058: BakedParticleMesh_037
+    100060: BakedParticleMesh_038
+    100062: BakedParticleMesh_039
+    100064: BakedParticleMesh_040
+    100066: BakedParticleMesh_041
+    100068: BakedParticleMesh_042
+    100070: BakedParticleMesh_043
+    100072: BakedParticleMesh_044
+    100074: BakedParticleMesh_045
+    100076: BakedParticleMesh_046
+    100078: BakedParticleMesh_047
+    100080: BakedParticleMesh_048
+    100082: BakedParticleMesh_049
+    100084: BakedParticleMesh_050
+    100086: BakedParticleMesh_051
+    100088: BakedParticleMesh_052
+    100090: BakedParticleMesh_053
+    100092: BakedParticleMesh_054
+    100094: BakedParticleMesh_055
+    100096: BakedParticleMesh_056
+    100098: BakedParticleMesh_057
+    100100: BakedParticleMesh_058
+    100102: BakedParticleMesh_059
+    100104: BakedParticleMesh_060
+    100106: BakedParticleMesh_061
+    100108: BakedParticleMesh_062
+    100110: BakedParticleMesh_063
+    100112: BakedParticleMesh_064
+    100114: BakedParticleMesh_065
+    100116: BakedParticleMesh_066
+    100118: BakedParticleMesh_067
+    100120: BakedParticleMesh_068
+    100122: BakedParticleMesh_069
+    100124: Fat
+    100126: Stent
+    100128: //RootNode
+    100130: Vein
+    400000: BakedParticleMesh_007
+    400002: BakedParticleMesh_009
+    400004: BakedParticleMesh_010
+    400006: BakedParticleMesh_011
+    400008: BakedParticleMesh_012
+    400010: BakedParticleMesh_013
+    400012: BakedParticleMesh_014
+    400014: BakedParticleMesh_015
+    400016: BakedParticleMesh_016
+    400018: BakedParticleMesh_017
+    400020: BakedParticleMesh_018
+    400022: BakedParticleMesh_019
+    400024: BakedParticleMesh_020
+    400026: BakedParticleMesh_021
+    400028: BakedParticleMesh_022
+    400030: BakedParticleMesh_023
+    400032: BakedParticleMesh_024
+    400034: BakedParticleMesh_025
+    400036: BakedParticleMesh_026
+    400038: BakedParticleMesh_027
+    400040: BakedParticleMesh_028
+    400042: BakedParticleMesh_029
+    400044: BakedParticleMesh_030
+    400046: BakedParticleMesh_031
+    400048: BakedParticleMesh_032
+    400050: BakedParticleMesh_033
+    400052: BakedParticleMesh_034
+    400054: BakedParticleMesh_035
+    400056: BakedParticleMesh_036
+    400058: BakedParticleMesh_037
+    400060: BakedParticleMesh_038
+    400062: BakedParticleMesh_039
+    400064: BakedParticleMesh_040
+    400066: BakedParticleMesh_041
+    400068: BakedParticleMesh_042
+    400070: BakedParticleMesh_043
+    400072: BakedParticleMesh_044
+    400074: BakedParticleMesh_045
+    400076: BakedParticleMesh_046
+    400078: BakedParticleMesh_047
+    400080: BakedParticleMesh_048
+    400082: BakedParticleMesh_049
+    400084: BakedParticleMesh_050
+    400086: BakedParticleMesh_051
+    400088: BakedParticleMesh_052
+    400090: BakedParticleMesh_053
+    400092: BakedParticleMesh_054
+    400094: BakedParticleMesh_055
+    400096: BakedParticleMesh_056
+    400098: BakedParticleMesh_057
+    400100: BakedParticleMesh_058
+    400102: BakedParticleMesh_059
+    400104: BakedParticleMesh_060
+    400106: BakedParticleMesh_061
+    400108: BakedParticleMesh_062
+    400110: BakedParticleMesh_063
+    400112: BakedParticleMesh_064
+    400114: BakedParticleMesh_065
+    400116: BakedParticleMesh_066
+    400118: BakedParticleMesh_067
+    400120: BakedParticleMesh_068
+    400122: BakedParticleMesh_069
+    400124: Fat
+    400126: Stent
+    400128: //RootNode
+    400130: Vein
+    2300000: BakedParticleMesh_007
+    2300002: BakedParticleMesh_009
+    2300004: BakedParticleMesh_010
+    2300006: BakedParticleMesh_011
+    2300008: BakedParticleMesh_012
+    2300010: BakedParticleMesh_013
+    2300012: BakedParticleMesh_014
+    2300014: BakedParticleMesh_015
+    2300016: BakedParticleMesh_016
+    2300018: BakedParticleMesh_017
+    2300020: BakedParticleMesh_018
+    2300022: BakedParticleMesh_019
+    2300024: BakedParticleMesh_020
+    2300026: BakedParticleMesh_021
+    2300028: BakedParticleMesh_022
+    2300030: BakedParticleMesh_023
+    2300032: BakedParticleMesh_024
+    2300034: BakedParticleMesh_025
+    2300036: BakedParticleMesh_026
+    2300038: BakedParticleMesh_027
+    2300040: BakedParticleMesh_028
+    2300042: BakedParticleMesh_029
+    2300044: BakedParticleMesh_030
+    2300046: BakedParticleMesh_031
+    2300048: BakedParticleMesh_032
+    2300050: BakedParticleMesh_033
+    2300052: BakedParticleMesh_034
+    2300054: BakedParticleMesh_035
+    2300056: BakedParticleMesh_036
+    2300058: BakedParticleMesh_037
+    2300060: BakedParticleMesh_038
+    2300062: BakedParticleMesh_039
+    2300064: BakedParticleMesh_040
+    2300066: BakedParticleMesh_041
+    2300068: BakedParticleMesh_042
+    2300070: BakedParticleMesh_043
+    2300072: BakedParticleMesh_044
+    2300074: BakedParticleMesh_045
+    2300076: BakedParticleMesh_046
+    2300078: BakedParticleMesh_047
+    2300080: BakedParticleMesh_048
+    2300082: BakedParticleMesh_049
+    2300084: BakedParticleMesh_050
+    2300086: BakedParticleMesh_051
+    2300088: BakedParticleMesh_052
+    2300090: BakedParticleMesh_053
+    2300092: BakedParticleMesh_054
+    2300094: BakedParticleMesh_055
+    2300096: BakedParticleMesh_056
+    2300098: BakedParticleMesh_057
+    2300100: BakedParticleMesh_058
+    2300102: BakedParticleMesh_059
+    2300104: BakedParticleMesh_060
+    2300106: BakedParticleMesh_061
+    2300108: BakedParticleMesh_062
+    2300110: BakedParticleMesh_063
+    2300112: BakedParticleMesh_064
+    2300114: BakedParticleMesh_065
+    2300116: BakedParticleMesh_066
+    2300118: BakedParticleMesh_067
+    2300120: BakedParticleMesh_068
+    2300122: BakedParticleMesh_069
+    2300124: Fat
+    2300126: Stent
+    2300128: Vein
+    3300000: BakedParticleMesh_007
+    3300002: BakedParticleMesh_009
+    3300004: BakedParticleMesh_010
+    3300006: BakedParticleMesh_011
+    3300008: BakedParticleMesh_012
+    3300010: BakedParticleMesh_013
+    3300012: BakedParticleMesh_014
+    3300014: BakedParticleMesh_015
+    3300016: BakedParticleMesh_016
+    3300018: BakedParticleMesh_017
+    3300020: BakedParticleMesh_018
+    3300022: BakedParticleMesh_019
+    3300024: BakedParticleMesh_020
+    3300026: BakedParticleMesh_021
+    3300028: BakedParticleMesh_022
+    3300030: BakedParticleMesh_023
+    3300032: BakedParticleMesh_024
+    3300034: BakedParticleMesh_025
+    3300036: BakedParticleMesh_026
+    3300038: BakedParticleMesh_027
+    3300040: BakedParticleMesh_028
+    3300042: BakedParticleMesh_029
+    3300044: BakedParticleMesh_030
+    3300046: BakedParticleMesh_031
+    3300048: BakedParticleMesh_032
+    3300050: BakedParticleMesh_033
+    3300052: BakedParticleMesh_034
+    3300054: BakedParticleMesh_035
+    3300056: BakedParticleMesh_036
+    3300058: BakedParticleMesh_037
+    3300060: BakedParticleMesh_038
+    3300062: BakedParticleMesh_039
+    3300064: BakedParticleMesh_040
+    3300066: BakedParticleMesh_041
+    3300068: BakedParticleMesh_042
+    3300070: BakedParticleMesh_043
+    3300072: BakedParticleMesh_044
+    3300074: BakedParticleMesh_045
+    3300076: BakedParticleMesh_046
+    3300078: BakedParticleMesh_047
+    3300080: BakedParticleMesh_048
+    3300082: BakedParticleMesh_049
+    3300084: BakedParticleMesh_050
+    3300086: BakedParticleMesh_051
+    3300088: BakedParticleMesh_052
+    3300090: BakedParticleMesh_053
+    3300092: BakedParticleMesh_054
+    3300094: BakedParticleMesh_055
+    3300096: BakedParticleMesh_056
+    3300098: BakedParticleMesh_057
+    3300100: BakedParticleMesh_058
+    3300102: BakedParticleMesh_059
+    3300104: BakedParticleMesh_060
+    3300106: BakedParticleMesh_061
+    3300108: BakedParticleMesh_062
+    3300110: BakedParticleMesh_063
+    3300112: BakedParticleMesh_064
+    3300114: BakedParticleMesh_065
+    3300116: BakedParticleMesh_066
+    3300118: BakedParticleMesh_067
+    3300120: BakedParticleMesh_068
+    3300122: BakedParticleMesh_069
+    3300124: Fat
+    3300126: Stent
+    3300128: Vein
+    4300000: Fat
+    4300002: Vein
+    4300004: Stent
+    4300006: BakedParticleMesh_007
+    4300008: BakedParticleMesh_009
+    4300010: BakedParticleMesh_010
+    4300012: BakedParticleMesh_011
+    4300014: BakedParticleMesh_012
+    4300016: BakedParticleMesh_013
+    4300018: BakedParticleMesh_014
+    4300020: BakedParticleMesh_015
+    4300022: BakedParticleMesh_016
+    4300024: BakedParticleMesh_017
+    4300026: BakedParticleMesh_018
+    4300028: BakedParticleMesh_019
+    4300030: BakedParticleMesh_020
+    4300032: BakedParticleMesh_021
+    4300034: BakedParticleMesh_022
+    4300036: BakedParticleMesh_023
+    4300038: BakedParticleMesh_024
+    4300040: BakedParticleMesh_025
+    4300042: BakedParticleMesh_026
+    4300044: BakedParticleMesh_027
+    4300046: BakedParticleMesh_028
+    4300048: BakedParticleMesh_029
+    4300050: BakedParticleMesh_030
+    4300052: BakedParticleMesh_031
+    4300054: BakedParticleMesh_032
+    4300056: BakedParticleMesh_033
+    4300058: BakedParticleMesh_034
+    4300060: BakedParticleMesh_035
+    4300062: BakedParticleMesh_036
+    4300064: BakedParticleMesh_037
+    4300066: BakedParticleMesh_038
+    4300068: BakedParticleMesh_039
+    4300070: BakedParticleMesh_040
+    4300072: BakedParticleMesh_041
+    4300074: BakedParticleMesh_042
+    4300076: BakedParticleMesh_043
+    4300078: BakedParticleMesh_044
+    4300080: BakedParticleMesh_045
+    4300082: BakedParticleMesh_046
+    4300084: BakedParticleMesh_047
+    4300086: BakedParticleMesh_048
+    4300088: BakedParticleMesh_049
+    4300090: BakedParticleMesh_050
+    4300092: BakedParticleMesh_051
+    4300094: BakedParticleMesh_052
+    4300096: BakedParticleMesh_053
+    4300098: BakedParticleMesh_054
+    4300100: BakedParticleMesh_055
+    4300102: BakedParticleMesh_056
+    4300104: BakedParticleMesh_057
+    4300106: BakedParticleMesh_058
+    4300108: BakedParticleMesh_059
+    4300110: BakedParticleMesh_060
+    4300112: BakedParticleMesh_061
+    4300114: BakedParticleMesh_062
+    4300116: BakedParticleMesh_063
+    4300118: BakedParticleMesh_064
+    4300120: BakedParticleMesh_065
+    4300122: BakedParticleMesh_066
+    4300124: BakedParticleMesh_067
+    4300126: BakedParticleMesh_068
+    4300128: BakedParticleMesh_069
+    6400000: BakedParticleMesh_007
+    6400002: BakedParticleMesh_009
+    6400004: BakedParticleMesh_010
+    6400006: BakedParticleMesh_011
+    6400008: BakedParticleMesh_012
+    6400010: BakedParticleMesh_013
+    6400012: BakedParticleMesh_014
+    6400014: BakedParticleMesh_015
+    6400016: BakedParticleMesh_016
+    6400018: BakedParticleMesh_017
+    6400020: BakedParticleMesh_018
+    6400022: BakedParticleMesh_019
+    6400024: BakedParticleMesh_020
+    6400026: BakedParticleMesh_021
+    6400028: BakedParticleMesh_022
+    6400030: BakedParticleMesh_023
+    6400032: BakedParticleMesh_024
+    6400034: BakedParticleMesh_025
+    6400036: BakedParticleMesh_026
+    6400038: BakedParticleMesh_027
+    6400040: BakedParticleMesh_028
+    6400042: BakedParticleMesh_029
+    6400044: BakedParticleMesh_030
+    6400046: BakedParticleMesh_031
+    6400048: BakedParticleMesh_032
+    6400050: BakedParticleMesh_033
+    6400052: BakedParticleMesh_034
+    6400054: BakedParticleMesh_035
+    6400056: BakedParticleMesh_036
+    6400058: BakedParticleMesh_037
+    6400060: BakedParticleMesh_038
+    6400062: BakedParticleMesh_039
+    6400064: BakedParticleMesh_040
+    6400066: BakedParticleMesh_041
+    6400068: BakedParticleMesh_042
+    6400070: BakedParticleMesh_043
+    6400072: BakedParticleMesh_044
+    6400074: BakedParticleMesh_045
+    6400076: BakedParticleMesh_046
+    6400078: BakedParticleMesh_047
+    6400080: BakedParticleMesh_048
+    6400082: BakedParticleMesh_049
+    6400084: BakedParticleMesh_050
+    6400086: BakedParticleMesh_051
+    6400088: BakedParticleMesh_052
+    6400090: BakedParticleMesh_053
+    6400092: BakedParticleMesh_054
+    6400094: BakedParticleMesh_055
+    6400096: BakedParticleMesh_056
+    6400098: BakedParticleMesh_057
+    6400100: BakedParticleMesh_058
+    6400102: BakedParticleMesh_059
+    6400104: BakedParticleMesh_060
+    6400106: BakedParticleMesh_061
+    6400108: BakedParticleMesh_062
+    6400110: BakedParticleMesh_063
+    6400112: BakedParticleMesh_064
+    6400114: BakedParticleMesh_065
+    6400116: BakedParticleMesh_066
+    6400118: BakedParticleMesh_067
+    6400120: BakedParticleMesh_068
+    6400122: BakedParticleMesh_069
+    6400124: Fat
+    6400126: Stent
+    6400128: Vein
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BakedParticleMesh_007
+        weight: 1
+      - path: BakedParticleMesh_009
+        weight: 1
+      - path: BakedParticleMesh_010
+        weight: 1
+      - path: BakedParticleMesh_011
+        weight: 1
+      - path: BakedParticleMesh_012
+        weight: 1
+      - path: BakedParticleMesh_013
+        weight: 1
+      - path: BakedParticleMesh_014
+        weight: 1
+      - path: BakedParticleMesh_015
+        weight: 1
+      - path: BakedParticleMesh_016
+        weight: 1
+      - path: BakedParticleMesh_017
+        weight: 1
+      - path: BakedParticleMesh_018
+        weight: 1
+      - path: BakedParticleMesh_019
+        weight: 1
+      - path: BakedParticleMesh_020
+        weight: 1
+      - path: BakedParticleMesh_021
+        weight: 1
+      - path: BakedParticleMesh_022
+        weight: 1
+      - path: BakedParticleMesh_023
+        weight: 1
+      - path: BakedParticleMesh_024
+        weight: 1
+      - path: BakedParticleMesh_025
+        weight: 1
+      - path: BakedParticleMesh_026
+        weight: 1
+      - path: BakedParticleMesh_027
+        weight: 1
+      - path: BakedParticleMesh_028
+        weight: 1
+      - path: BakedParticleMesh_029
+        weight: 1
+      - path: BakedParticleMesh_030
+        weight: 1
+      - path: BakedParticleMesh_031
+        weight: 1
+      - path: BakedParticleMesh_032
+        weight: 1
+      - path: BakedParticleMesh_033
+        weight: 1
+      - path: BakedParticleMesh_034
+        weight: 1
+      - path: BakedParticleMesh_035
+        weight: 1
+      - path: BakedParticleMesh_036
+        weight: 1
+      - path: BakedParticleMesh_037
+        weight: 1
+      - path: BakedParticleMesh_038
+        weight: 1
+      - path: BakedParticleMesh_039
+        weight: 1
+      - path: BakedParticleMesh_040
+        weight: 1
+      - path: BakedParticleMesh_041
+        weight: 1
+      - path: BakedParticleMesh_042
+        weight: 1
+      - path: BakedParticleMesh_043
+        weight: 1
+      - path: BakedParticleMesh_044
+        weight: 1
+      - path: BakedParticleMesh_045
+        weight: 1
+      - path: BakedParticleMesh_046
+        weight: 1
+      - path: BakedParticleMesh_047
+        weight: 1
+      - path: BakedParticleMesh_048
+        weight: 1
+      - path: BakedParticleMesh_049
+        weight: 1
+      - path: BakedParticleMesh_050
+        weight: 1
+      - path: BakedParticleMesh_051
+        weight: 1
+      - path: BakedParticleMesh_052
+        weight: 1
+      - path: BakedParticleMesh_053
+        weight: 1
+      - path: BakedParticleMesh_054
+        weight: 1
+      - path: BakedParticleMesh_055
+        weight: 1
+      - path: BakedParticleMesh_056
+        weight: 1
+      - path: BakedParticleMesh_057
+        weight: 1
+      - path: BakedParticleMesh_058
+        weight: 1
+      - path: BakedParticleMesh_059
+        weight: 1
+      - path: BakedParticleMesh_060
+        weight: 1
+      - path: BakedParticleMesh_061
+        weight: 1
+      - path: BakedParticleMesh_062
+        weight: 1
+      - path: BakedParticleMesh_063
+        weight: 1
+      - path: BakedParticleMesh_064
+        weight: 1
+      - path: BakedParticleMesh_065
+        weight: 1
+      - path: BakedParticleMesh_066
+        weight: 1
+      - path: BakedParticleMesh_067
+        weight: 1
+      - path: BakedParticleMesh_068
+        weight: 1
+      - path: BakedParticleMesh_069
+        weight: 1
+      - path: Fat
+        weight: 1
+      - path: Stent
+        weight: 1
+      - path: Vein
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
